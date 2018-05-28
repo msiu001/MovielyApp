@@ -65,3 +65,7 @@ C:\Users\Mario\Documents\PLURALSIGHT\YOUTUBE\20 ASP.NET MVC 5 Mosch\Movie App\Mo
 C:\Users\Mario\Documents\PLURALSIGHT\YOUTUBE\20 ASP.NET MVC 5 Mosch\Movie App\Moviely\Moviely\obj\Debug\Moviely.csprojResolveAssemblyReference.cache
 C:\Users\Mario\Documents\PLURALSIGHT\YOUTUBE\20 ASP.NET MVC 5 Mosch\Movie App\Moviely\Moviely\obj\Debug\Moviely.dll
 C:\Users\Mario\Documents\PLURALSIGHT\YOUTUBE\20 ASP.NET MVC 5 Mosch\Movie App\Moviely\Moviely\obj\Debug\Moviely.pdb
+C:\Users\Mario\Documents\PLURALSIGHT\YOUTUBE\20 ASP.NET MVC 5 Mosch\Movie App\Moviely\Moviely\bin\EntityFramework.dll
+C:\Users\Mario\Documents\PLURALSIGHT\YOUTUBE\20 ASP.NET MVC 5 Mosch\Movie App\Moviely\Moviely\bin\EntityFramework.SqlServer.dll
+C:\Users\Mario\Documents\PLURALSIGHT\YOUTUBE\20 ASP.NET MVC 5 Mosch\Movie App\Moviely\Moviely\bin\EntityFramework.xml
+C:\Users\Mario\Documents\PLURALSIGHT\YOUTUBE\20 ASP.NET MVC 5 Mosch\Movie App\Moviely\Moviely\bin\EntityFramework.SqlServer.xml
