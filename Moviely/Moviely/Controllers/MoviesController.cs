@@ -31,7 +31,7 @@ namespace Moviely.Controllers
         }*/
 
 
-
+        // GET: Movies
         public ViewResult Index()
         {
             var movies = GetMovies();
