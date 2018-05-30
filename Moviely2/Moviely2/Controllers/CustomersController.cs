@@ -4,6 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using Moviely2.Models;
+using System.Data.Entity;
 
 namespace Moviely2.Controllers
 {
@@ -24,7 +25,7 @@ namespace Moviely2.Controllers
         // GET: Customers
         public ViewResult Index()
         {
-            var customers = _context.Customers.ToList();
+            var customers = _context.Customers.Include(c => c.MembershipType).ToList();
 
             return View(customers);
         }
