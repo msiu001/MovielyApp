@@ -9,29 +9,31 @@ namespace Moviely2.Controllers
 {
     public class CustomersController : Controller
     {
-        // GET: Customers
-        public ActionResult Index()
+        private ApplicationDbContext _context;
+
+        public CustomersController()
         {
-            var customers = GetCustomers();
+            _context = new ApplicationDbContext();
+        }
+
+        protected override void Dispose(bool disposing)
+        {
+            _context.Dispose();
+        }
+
+        // GET: Customers
+        public ViewResult Index()
+        {
+            var customers = _context.Customers.ToList();
 
             return View(customers);
         }
 
-        private IEnumerable<Customer> GetCustomers()
-        {
-            return new List<Customer>
-            {
-                new Customer { Id = 1, Name = "John Smith" },
-                new Customer { Id = 2, Name = "Michael Jackson" },
-                new Customer { Id = 3, Name = "Zinedine Zidane" },
-                new Customer { Id = 4, Name = "Diego Maradona" }
-            };
-        }
 
 
         public ActionResult Details(int id)
         {
-            var customers = GetCustomers();
+            var customers = _context.Customers.ToList();
 
             var customerFound = new Customer();
 
@@ -50,7 +52,7 @@ namespace Moviely2.Controllers
         }
         //Mosh's Solution
         /*{
-           var customer = GetCustomers().SingleOrDefault(c => c.Id == id);
+           var customer = _context.Customers.SingleOrDefault(c => c.Id == id);
 
                        if (customer == null)
                                return HttpNotFound();
