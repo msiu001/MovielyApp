@@ -69,3 +69,5 @@ C:\Users\Mario\Documents\PLURALSIGHT\YOUTUBE\20 ASP.NET MVC 5 Mosch\Movie App\Mo
 C:\Users\Mario\Documents\PLURALSIGHT\YOUTUBE\20 ASP.NET MVC 5 Mosch\Movie App\Moviely\Moviely\bin\EntityFramework.SqlServer.dll
 C:\Users\Mario\Documents\PLURALSIGHT\YOUTUBE\20 ASP.NET MVC 5 Mosch\Movie App\Moviely\Moviely\bin\EntityFramework.xml
 C:\Users\Mario\Documents\PLURALSIGHT\YOUTUBE\20 ASP.NET MVC 5 Mosch\Movie App\Moviely\Moviely\bin\EntityFramework.SqlServer.xml
+C:\Users\Mario\Documents\PLURALSIGHT\YOUTUBE\20 ASP.NET MVC 5 Mosch\Movie App\Moviely\Moviely\obj\Debug\Moviely.Migrations.InitialModel.resources
+C:\Users\Mario\Documents\PLURALSIGHT\YOUTUBE\20 ASP.NET MVC 5 Mosch\Movie App\Moviely\Moviely\obj\Debug\Moviely.csproj.GenerateResource.Cache
