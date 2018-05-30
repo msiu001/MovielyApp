@@ -99,3 +99,4 @@ C:\Users\Mario\Documents\PLURALSIGHT\YOUTUBE\20 ASP.NET MVC 5 Mosch\Movie App\Mo
 C:\Users\Mario\Documents\PLURALSIGHT\YOUTUBE\20 ASP.NET MVC 5 Mosch\Movie App\Moviely2\Moviely2\obj\Debug\Moviely2.Migrations.AddIsSubcribedToCustomer.resources
 C:\Users\Mario\Documents\PLURALSIGHT\YOUTUBE\20 ASP.NET MVC 5 Mosch\Movie App\Moviely2\Moviely2\obj\Debug\Moviely2.Migrations.AddMembershipType.resources
 C:\Users\Mario\Documents\PLURALSIGHT\YOUTUBE\20 ASP.NET MVC 5 Mosch\Movie App\Moviely2\Moviely2\obj\Debug\Moviely2.Migrations.PopulateMembershipTypes.resources
+C:\Users\Mario\Documents\PLURALSIGHT\YOUTUBE\20 ASP.NET MVC 5 Mosch\Movie App\Moviely2\Moviely2\obj\Debug\Moviely2.Migrations.ApplyAnnotationsToCustomerName.resources
