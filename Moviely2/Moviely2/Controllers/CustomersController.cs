@@ -34,31 +34,12 @@ namespace Moviely2.Controllers
 
         public ActionResult Details(int id)
         {
-            var customers = _context.Customers.ToList();
-
-            var customerFound = new Customer();
-
-            foreach (var customer in customers)
-            {
-                if (id == customer.Id)
-                {
-                    customerFound.Id = id;
-                    customerFound.Name = customer.Name;
-                }
-            }
-            if (customerFound.Id != id)
-                return HttpNotFound();
-
-            return View(customerFound);
-        }
-        //Mosh's Solution
-        /*{
-           var customer = _context.Customers.SingleOrDefault(c => c.Id == id);
+           var customer = _context.Customers.Include(c => c.MembershipType).SingleOrDefault(c => c.Id == id);
 
                        if (customer == null)
                                return HttpNotFound();
 
                        return View(customer);
-       }*/
+       }
     }
 }

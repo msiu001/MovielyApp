@@ -102,3 +102,5 @@ C:\Users\Mario\Documents\PLURALSIGHT\YOUTUBE\20 ASP.NET MVC 5 Mosch\Movie App\Mo
 C:\Users\Mario\Documents\PLURALSIGHT\YOUTUBE\20 ASP.NET MVC 5 Mosch\Movie App\Moviely2\Moviely2\obj\Debug\Moviely2.Migrations.ApplyAnnotationsToCustomerName.resources
 C:\Users\Mario\Documents\PLURALSIGHT\YOUTUBE\20 ASP.NET MVC 5 Mosch\Movie App\Moviely2\Moviely2\obj\Debug\Moviely2.Migrations.AddNameToMembershipType.resources
 C:\Users\Mario\Documents\PLURALSIGHT\YOUTUBE\20 ASP.NET MVC 5 Mosch\Movie App\Moviely2\Moviely2\obj\Debug\Moviely2.Migrations.SetNameOfmembershipType.resources
+C:\Users\Mario\Documents\PLURALSIGHT\YOUTUBE\20 ASP.NET MVC 5 Mosch\Movie App\Moviely2\Moviely2\obj\Debug\Moviely2.Migrations.AddCustomerBirthday.resources
+C:\Users\Mario\Documents\PLURALSIGHT\YOUTUBE\20 ASP.NET MVC 5 Mosch\Movie App\Moviely2\Moviely2\obj\Debug\Moviely2.Migrations.AddRequiredAnnotationToMembershipName.resources
